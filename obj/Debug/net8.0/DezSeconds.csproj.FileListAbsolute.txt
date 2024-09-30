@@ -1,0 +1,14 @@
+C:\Users\gacha\Documents\DezSeconds\bin\Debug\net8.0\DezSeconds.exe
+C:\Users\gacha\Documents\DezSeconds\bin\Debug\net8.0\DezSeconds.deps.json
+C:\Users\gacha\Documents\DezSeconds\bin\Debug\net8.0\DezSeconds.runtimeconfig.json
+C:\Users\gacha\Documents\DezSeconds\bin\Debug\net8.0\DezSeconds.dll
+C:\Users\gacha\Documents\DezSeconds\bin\Debug\net8.0\DezSeconds.pdb
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.AssemblyInfoInputs.cache
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.AssemblyInfo.cs
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.csproj.CoreCompileInputs.cache
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.dll
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\refint\DezSeconds.dll
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.pdb
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\DezSeconds.genruntimeconfig.cache
+C:\Users\gacha\Documents\DezSeconds\obj\Debug\net8.0\ref\DezSeconds.dll
