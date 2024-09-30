@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DezSeconds
-build_property.ProjectDir = c:\Users\gacha\Documents\DezSeconds\
+build_property.ProjectDir = C:\Users\gacha\Documents\DezSeconds\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
